@@ -44,7 +44,7 @@ nav#header-menu .drawer__body {
   display: block !important;
 }
 nav#header-menu .sliderow__title.header-menu-heading {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 nav#header-menu .sliderow__title {
     min-height: auto !important;
