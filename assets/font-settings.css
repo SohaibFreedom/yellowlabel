@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Futura;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_n6.bbe2e25d5b96d13ff36b242171a3d07cf5a60170.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=51febdd1f8226b49a6e413140193e2488f3613f93b3384367e893467552ab344") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_n6.66fa8f5c3c4b2c7c04809ecefe751450fa59d995.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=f3f69ae974cf1c1aca6818aab47de74fa8257ba0c3404c6ad60abe7b3b4af520") format("woff");
+}
+
+@font-face {
+  font-family: Futura;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_n4.df36ce3d9db534a4d7947f4aa825495ed740e410.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=1a117324b5198fa9119a36142582909ee8e06e34e8911b9d54dcebe9320b8bff") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_n4.6bce24beb4ba1ff4ddeb20f7cd6e2fa513a3d6ec.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=e39d33545b1b836a90cae790479676b20ee5f18f0db79f3150cbe4fa59608366") format("woff");
+}
+
+@font-face {
+  font-family: Futura;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_n7.153f8fffad8e901382179997bbb87aa7a5ff33b3.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=d58f06f0771eaf8c6d47e396ea8eaf6b94a8901ebbe892c2ad08810ad20d6682") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_n7.711e9243b3eccc2745ecf4731eba61651a122376.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=e58a18c73a16d1bb0d35ee6869120db26df285db7d093eedf48efe803d50216a") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Futura;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_n7.153f8fffad8e901382179997bbb87aa7a5ff33b3.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=d58f06f0771eaf8c6d47e396ea8eaf6b94a8901ebbe892c2ad08810ad20d6682") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_n7.711e9243b3eccc2745ecf4731eba61651a122376.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=e58a18c73a16d1bb0d35ee6869120db26df285db7d093eedf48efe803d50216a") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Futura;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_n5.5632c6d8a6da9141ef40e51d14264a007bcae7e5.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=747c308e6483926619cda9e0ac658198893257b55e2f6e719d7e2ee1858e1cc1") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_n5.ea788239cf399e57dbdfe80e24bba751e5c2a36c.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=788ef6f16fb3f1c2474c3f220c06dc2f57d146dba4542ed0e869a2c33a84bbd5") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: Futura;
+  font-weight: 400;
+  font-style: oblique;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_o4.9747e2e6ed2f11b894984527c927b42234e48815.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=ba441860629ba75866297500dd42733d767615c8a0d65c03ef8ea2da9e2bc2c7") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_o4.d5edc6b1d9a050bbe0beb9093d73b883bf18c6c1.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=6e302daee1e693c9cf4841510ec8637aef6fe9b3ad703e0a40c958147a6c7388") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Futura;
+  font-weight: 500;
+  font-style: oblique;
+  font-display: swap;
+  src: url("//yellowlabel.co/cdn/fonts/futura/futura_o5.2374ce1c635b408a1f07994a3de4a936fc50f767.woff2?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=198debeba480915c649c4d42fb30291916a2733a29e04a722a115957fb55b695") format("woff2"),
+       url("//yellowlabel.co/cdn/fonts/futura/futura_o5.1bf4df2c089a877c3ba2d33a9d4c7908742bfc89.woff?h1=eWVsbG93bGFiZWwuY28&h2=eWVsbG93bGFiZWxjby5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=a962d5b1e0792f73f8e66e9987a5fa912696ab3ab2d087f2175854056bc351b8") format("woff");
+}
+
