@@ -281,6 +281,10 @@ body:has(.main-content > .shopify-section.section-overlay-header:first-of-type)
   .announcement__bar-holder {
     padding: 3px 0 !important;
 }
+  .drawer--header .drawer__content {
+    overflow: inherit;
+    min-height: auto !important;
+}
 .Desktop-hero-banner {
   display:none;
 }
