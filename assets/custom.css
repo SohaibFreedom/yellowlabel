@@ -282,7 +282,7 @@ body:has(.main-content > .shopify-section.section-overlay-header:first-of-type)
     padding: 3px 0 !important;
 }
   nav#header-menu .drawer__body .footer__block {
-    flex: 1 0 auto !important;
+    flex: 1 0 0 !important;
   
 }
   .drawer--header .drawer__content {
