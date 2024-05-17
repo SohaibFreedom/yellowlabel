@@ -286,6 +286,10 @@ body:has(.main-content > .shopify-section.section-overlay-header:first-of-type)
   
 }
   .drawer--header .drawer__content {
+ 
+    flex: unset !important;
+}
+  .drawer--header .drawer__content {
     overflow: unset !important;
     min-height: auto !important;
 }
