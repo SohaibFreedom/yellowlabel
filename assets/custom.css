@@ -43,6 +43,7 @@ nav#header-menu .drawer__body {
   min-height: auto !important;
   display: block !important;
 }
+
 nav#header-menu .sliderow__title.header-menu-heading {
     margin-bottom: 15px;
 }
@@ -274,6 +275,12 @@ body:has(.main-content > .shopify-section.section-overlay-header:first-of-type)
   #Hero--template--17534862164197__section_hero_VtEBpm .hero__title {
     font-size: 40px;
   }
+  .announcement__bar .body-size-2 {
+    font-size: 12px !important;
+}
+  .announcement__bar-holder {
+    padding: 3px 0 !important;
+}
 .Desktop-hero-banner {
   display:none;
 }
