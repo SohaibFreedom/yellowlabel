@@ -50,9 +50,7 @@ nav#header-menu .sliderow__title.header-menu-heading {
 nav#header-menu .sliderow__title {
   min-height: auto !important;
 }
-.announcement__bar strong {
-  font-weight: 800 !important;
-}
+
 .announcement__bar-holder {
   padding: 7px 0 !important;
 }
