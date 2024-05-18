@@ -45,32 +45,32 @@ nav#header-menu .drawer__body {
 }
 
 nav#header-menu .sliderow__title.header-menu-heading {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 nav#header-menu .sliderow__title {
-    min-height: auto !important;
+  min-height: auto !important;
 }
 .announcement__bar strong {
-    font-weight: 800 !IMPORTANT;
+  font-weight: 800 !important;
 }
 .announcement__bar-holder {
-    padding: 7px 0 !important;
+  padding: 7px 0 !important;
 }
 nav#header-menu .drawer__body {
-    min-height: auto !important;
-    display: flex !important;
+  min-height: auto !important;
+  display: flex !important;
 }
 #header-menu .drawer__main-menu .sliderow__title {
-    min-height: auto !important;
+  min-height: auto !important;
 }
 #header-menu .drawer__main-menu .sliderow {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 #header-menu .drawer__main-menu .sliderow {
-    min-height: auto !important;
+  min-height: auto !important;
 }
 .Mobile-hero-banner {
-  display:none !important;
+  display: none !important;
 }
 .drawer .cart__checkout {
   margin: 0 !important;
@@ -112,6 +112,7 @@ product-images {
   color: #000;
   font-size: 32px;
   font-weight: 400;
+  display: none;
   font-family: fututapt;
 }
 footer button#subscribe-button-footer-0 span {
@@ -277,27 +278,25 @@ body:has(.main-content > .shopify-section.section-overlay-header:first-of-type)
   }
   .announcement__bar .body-size-2 {
     font-size: 9px !important;
-}
+  }
   .announcement__bar-holder {
     padding: 3px 0 !important;
-}
+  }
   nav#header-menu .drawer__body .footer__block {
     flex: unset !important;
-  
-}
+  }
   .drawer--header .drawer__content {
- 
     flex: unset !important;
-}
+  }
   .drawer--header .drawer__content {
     overflow: unset !important;
     min-height: auto !important;
-}
-.Desktop-hero-banner {
-  display:none;
-}
+  }
+  .Desktop-hero-banner {
+    display: none;
+  }
   .Mobile-hero-banner {
-    display:block !important;
+    display: block !important;
   }
   .footer-sections .footer__quicklinks li {
     margin: 0 !important;
