@@ -43,6 +43,9 @@ nav#header-menu .drawer__body {
   min-height: auto !important;
   display: block !important;
 }
+body.has-header-transparent .section-overlay-header .hero__content__wrapper {
+  padding-top: 0 !important;
+}
 
 nav#header-menu .sliderow__title.header-menu-heading {
   margin-bottom: 10px;
