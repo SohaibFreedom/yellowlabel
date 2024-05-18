@@ -8,7 +8,7 @@
         "text_QCfyhH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The Shop is closed for Summer Holiday -- reopens Sept 15th with our Fall \/ Winter Collection.<\/strong><\/p>",
+            "text": "<p><strong>The Shop is closed for Summer Holiday <\/strong>—<strong> reopens Sept 15th with our Fall \/ Winter Collection.<\/strong><\/p>",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
